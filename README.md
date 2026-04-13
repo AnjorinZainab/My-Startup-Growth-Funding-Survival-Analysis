@@ -21,3 +21,4 @@ Focus on scalable industries
 Optimize funding allocation
 Expand in high-performing regions
 Dashboard Preview
+<img width="1687" height="816" alt="image" src="https://github.com/user-attachments/assets/89318f38-b142-4410-bd45-4d52b11662c7" />
